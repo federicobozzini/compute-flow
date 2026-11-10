@@ -6,9 +6,9 @@
 
 # Contributing to Compute Flow
 
-We are not currently accepting contributions to the `compute_flow` core, but we welcome ideas,
-feature requests, issue reports, and other feedback through the project's
-[issue tracker](https://github.com/ARM-software/compute-flow/issues).
+Compute Flow is evolving rapidly, so contributions to the `compute_flow` core are not currently
+accepted.
 
-When reporting a problem, please include a clear description, reproduction steps, and the expected
+Ideas, feature requests, issue reports, and other feedback are welcome through the project's issue
+tracker. When reporting a problem, include a clear description, reproduction steps, and the expected
 and actual behavior where possible.
